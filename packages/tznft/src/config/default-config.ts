@@ -17,7 +17,7 @@ export const defaultConfig: Config = {
       }
     },
     testnet: {
-      providerUrl: 'https://rpc.ghostnet.teztnets.xyz',
+      providerUrl: 'https://rpc.ghostnet.teztnets.com',
       aliases: {
         bob: {
           address: 'tz1Miryg4mYhjwdpgvJwhx2qbxg7P5yFnXMZ',
